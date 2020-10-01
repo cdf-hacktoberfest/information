@@ -2,7 +2,9 @@
 Information and guidelines for participating in the CDF's Hacktoberfest program
 
 ## How To Sign Up
+Participating in CDF Hacktoberfest is simple. Visit our [check-in form](https://rb.gy/lxfhco) to sign up and be added to the leaderboard. When you sign up, you'll indicate whether or not you want to receive swag prizes if you're among the top 10 contributors from your project. 
 
+Once you're checked in, start contributing! Whether or not you want to receive swag, we will recognize and celebrate your contributions.
 
 ## Where To Work
 
@@ -30,12 +32,12 @@ Eligible GitHub events include __pull request creation__, __commiting__, __issue
 
 Eligible content contributions include, but are not limited to __blog posts__, __videos__, __Twitch streams__, __training guides__, __stackoverflow answers__, and __whitepapers__. To submit your content for points eligibility, do the following:
 1. If possible, initiate it in a respository in the [cdf-hacktoberfest](https://github.com/cdf-hacktoberfest) organization. 
-1. Once content is published in its public destination, take a clear screenshot of it.
-1. Post a message about your contribution in the [#hacktoberfest channel](https://cdeliveryfdn.slack.com/archives/C01BRCQ7RJN) on [CDF Slack](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-ao8y4qhd-BQcTUg5l7m0HxXyBvJrT4w). Your message should include:
-  - Screenshot
-  - Your GitHub username
-  - A brief description of the content  
-1. After you post your message, add a :hacktoberfest: emoji reaction to your message. _Your points will not be counted unless you add this reaction_. If needed, [learn how to use reactions in Slack](https://slack.com/help/articles/206870317-Use-emoji-reactions). 
+2. Once content is published in its public destination, take a clear screenshot of it.
+3. Post a message about your contribution in the [#hacktoberfest channel](https://cdeliveryfdn.slack.com/archives/C01BRCQ7RJN) on [CDF Slack](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-ao8y4qhd-BQcTUg5l7m0HxXyBvJrT4w). Your message should include:
+    - Screenshot
+    - Your GitHub username
+    - A brief description of the content  
+4. After you post your message, add a :hacktoberfest: emoji reaction to your message. _Your points will not be counted unless you add this reaction_. If needed, [learn how to use reactions in Slack](https://slack.com/help/articles/206870317-Use-emoji-reactions). 
 
 ## Leaderboard and Points Tracking
 
