@@ -2,7 +2,7 @@
 Information and guidelines for participating in the CDF's Hacktoberfest program
 
 ## How To Sign Up
-Participating in CDF Hacktoberfest is simple. Visit our [check-in form](https://rb.gy/lxfhco) to sign up and be added to the leaderboard. When you sign up, you'll indicate whether or not you want to receive swag prizes if you're among the top 10 contributors from your project. 
+Participating in CDF Hacktoberfest is simple. Visit our [check-in form](https://rb.gy/lxfhco) to sign up and be added to the leaderboard. When you sign up, you'll indicate whether or not you want to receive swag prizes if you're among the top contributors from your project. 
 
 Once you're checked in, start contributing! Whether or not you want to receive swag, we will recognize and celebrate your contributions.
 
