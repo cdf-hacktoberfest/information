@@ -71,5 +71,5 @@ Note: Our leaderboard on Google Sheets uses BigQuery to grab this data. This arc
 
 ## Prizes
 
-At the end of Hacktoberfest (after October 31), we will reward the top 10 contributors in each of the 5 CDF projects with awesome gear from the CDF swag store. If 10 contributors are not registered from each project, folks with the next highest points totals from active projects will receive prizes until we have rewarded 50 contributors. If you want to participate and be recognized, but prefer not to receive swag, you may indicate that when you check in to CDF Hacktoberfest using the [check-in form](https://rb.gy/lxfhco).
+At the end of Hacktoberfest (after October 31), we will reward the top 4 contributors in each of the 5 CDF projects with awesome gear from the CDF swag store. If 4 contributors are not registered from each project, folks with the next highest points totals from active projects will receive prizes until we have rewarded 20 contributors. If you want to participate and be recognized, but prefer not to receive swag, you may indicate that when you check in to CDF Hacktoberfest using the [check-in form](https://rb.gy/lxfhco).
 
